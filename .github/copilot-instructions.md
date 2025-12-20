@@ -9,6 +9,7 @@ Building a prediction market arbitrage system that identifies and executes profi
 - Prefer f-strings for formatting
 - Use type hints for function signatures
 - Keep functions under 20 lines when possible
+- Do not use emojis in code or comments
 
 ## Naming Conventions
 - `snake_case` for variables and functions
